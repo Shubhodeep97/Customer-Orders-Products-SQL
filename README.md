@@ -14,7 +14,7 @@ I acquired this project from CoachX during my coursework on SQL with them.
 ## Database and Tools
 - Microsoft SQL Server Management Studio (SSMS)
 
-Schema - Customers_Orders_Products_Database
+- Schema - Customers_Orders_Products_Database
 
 ![schema1](https://github.com/Shubhodeep97/Customer-Orders-Products-SQL/assets/110394321/4bdb28d0-bbe5-4dba-89c2-8a6f99dc388a)
 
